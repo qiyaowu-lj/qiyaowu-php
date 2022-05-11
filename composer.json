@@ -1,0 +1,13 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^7.4",
+        "webonyx/graphql-php": "*",
+        "alibabacloud/client": "^1.5"
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://mirrors.aliyun.com/composer/"
+        }
+    }
+}

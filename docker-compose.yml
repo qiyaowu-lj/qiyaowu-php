@@ -1,0 +1,5 @@
+phpfpm:
+  image: "registry.cn-hangzhou.aliyuncs.com/marmot/phpfpm-7.0:1.0"
+  volumes:
+   - ./:/var/www/html/
+  container_name: qiyaowu-phpfpm
